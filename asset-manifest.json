@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/blewell321/material-dashboard.git/static/css/main.8e9f8467.chunk.css",
+    "main.js": "/blewell321/material-dashboard.git/static/js/main.beffea66.chunk.js",
+    "main.js.map": "/blewell321/material-dashboard.git/static/js/main.beffea66.chunk.js.map",
+    "runtime-main.js": "/blewell321/material-dashboard.git/static/js/runtime-main.31723802.js",
+    "runtime-main.js.map": "/blewell321/material-dashboard.git/static/js/runtime-main.31723802.js.map",
+    "static/css/2.d0176e96.chunk.css": "/blewell321/material-dashboard.git/static/css/2.d0176e96.chunk.css",
+    "static/js/2.107cbd70.chunk.js": "/blewell321/material-dashboard.git/static/js/2.107cbd70.chunk.js",
+    "static/js/2.107cbd70.chunk.js.map": "/blewell321/material-dashboard.git/static/js/2.107cbd70.chunk.js.map",
+    "index.html": "/blewell321/material-dashboard.git/index.html",
+    "precache-manifest.70c04660fbfbc9cb15ae14dcaed956f6.js": "/blewell321/material-dashboard.git/precache-manifest.70c04660fbfbc9cb15ae14dcaed956f6.js",
+    "service-worker.js": "/blewell321/material-dashboard.git/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/blewell321/material-dashboard.git/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.8e9f8467.chunk.css.map": "/blewell321/material-dashboard.git/static/css/main.8e9f8467.chunk.css.map",
+    "static/js/2.107cbd70.chunk.js.LICENSE.txt": "/blewell321/material-dashboard.git/static/js/2.107cbd70.chunk.js.LICENSE.txt",
+    "static/js/main.beffea66.chunk.js.LICENSE.txt": "/blewell321/material-dashboard.git/static/js/main.beffea66.chunk.js.LICENSE.txt",
+    "static/media/marc.jpg": "/blewell321/material-dashboard.git/static/media/marc.8880a65c.jpg",
+    "static/media/sidebar-1.jpg": "/blewell321/material-dashboard.git/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/blewell321/material-dashboard.git/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/blewell321/material-dashboard.git/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/blewell321/material-dashboard.git/static/media/sidebar-4.fc9cb053.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31723802.js",
+    "static/css/2.d0176e96.chunk.css",
+    "static/js/2.107cbd70.chunk.js",
+    "static/css/main.8e9f8467.chunk.css",
+    "static/js/main.beffea66.chunk.js"
+  ]
+}
